@@ -48,8 +48,10 @@ From the ANOVA and descriptive statistics, it is evident that there are signific
 To understand what specific factors contribute to the high performance of different companies and studios a further analysis that includes investments in marketing, production quality, talent, and partnerships should be done. By identifying these factors, the company can implement similar strategies to boost their total gross.
 The company should invest in technologies that can aid in data analysis and market forecasting. Tools for predictive analytics, audience analysis, and trend monitoring can provide valuable insights for strategic planning and decision-making.
 #### Summary 
-The studio should consider focusing on releasing movies during high-grossing months (May, June, July,November and December) as these months could yield the greatest profits and also because these
+The studio should consider focusing on releasing movies during high-grossing months (May, June, July,November and December) as these months yield the greatest profits and also because these
 are summer and holiday seasons.
+
+The studio should additionally consider producing mostly comedy and Drama movies as these seem to be the top most produced across all categories and may indicate popularity amongst audiences.
 
 The analysis of movie revenues reveals an overall upward trend in revenue generation over time, indicating growth in the industry and increasing box office performance. This upward trend suggests that audiences are generally spending more on movies, possibly driven by factors such as increased ticket prices, expanded distribution channels, or more frequent high-rate releases.
 
